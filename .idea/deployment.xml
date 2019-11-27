@@ -5,7 +5,7 @@
       <paths name="Laragon">
         <serverdata>
           <mappings>
-            <mapping deploy="/TestRamas" local="$PROJECT_DIR$" web="/TestRamas" />
+            <mapping deploy="\TestRama" local="$PROJECT_DIR$" web="/TestRama" />
           </mappings>
         </serverdata>
       </paths>
